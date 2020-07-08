@@ -11,23 +11,45 @@ import ContactUs from '../components/ContactUs';
 import Footer from '../components/Footer';
 import './softgenerate.scss';
 import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
+import Data from '../data.json';
+import axios from "axios";
 
 class SoftGenerateContainer extends Component {
+    state = {
+        resumeData: {},
+    }
+
+    componentDidMount() {
+        this.getResumeData();
+    }
+
+    getResumeData() {
+        axios
+          .get(`../data.json`)
+          .then((res) => {
+            console.log(res.data);
+            this.setState({ 
+                resumeData: res.data
+             });
+          });
+    }
+
    render(){
-       return(
-           <div style={{background:'pink',height:'100%',width:'100%'}}>Container
-            <Header />
-            <BannerSlider />
-            <Features />
-            <AboutUs />
-            <OurServices />
-            <Gallery />
-            <Testimonial />
-            <OurTeam />
-            <ContactUs />
-            <Footer />
-           </div>        
-       )
+       return (
+         <div style={{ background: "pink", height: "100%", width: "100%" }}>
+           Container
+           <Header data={this.state.resumeData.Header} />
+           <BannerSlider />
+           <Features data={this.state.resumeData.Features} />
+           <AboutUs data={this.state.resumeData.About} />
+           <OurServices data={this.state.resumeData.Services} />
+           <Gallery />
+           <Testimonial data={this.state.resumeData.Testimonials} />
+           <OurTeam data={this.state.resumeData.Team} />
+           <ContactUs data={this.state.resumeData.Contact} />
+           <Footer />
+         </div>
+       );
    }
 }
 
