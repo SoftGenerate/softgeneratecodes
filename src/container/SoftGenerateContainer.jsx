@@ -10,6 +10,7 @@ import OurTeam from '../components/OurTeam';
 import ContactUs from '../components/ContactUs';
 import Footer from '../components/Footer';
 import './softgenerate.scss';
+import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 
 class SoftGenerateContainer extends Component {
    render(){
