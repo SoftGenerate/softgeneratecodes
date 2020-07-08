@@ -37,6 +37,7 @@ const routing = (
       <Route path="/team" component={OurTeam} />
       <Route path="/contact" component={ContactUs} />
       <Route path="/footer" component={Footer} />
+      {/* <Link to="/footer">Footer</Link> */}
     </div>
   </Router>
 );

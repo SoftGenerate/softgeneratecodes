@@ -6,6 +6,7 @@ class BannerSlider extends Component {
         return (
             <div style={{ background: 'gray' }}>
             {/* <img src={require("../../public/img/banner.png")}  alt="Image" /> */}
+                {/* <img src={require("../intro-bg.jpg")}/> */}
                 <img 
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5jrx_YpRCzYNpmDaeFa6M43NTgyWFr2qjAg&usqp=CAU" 
                     alt=""
