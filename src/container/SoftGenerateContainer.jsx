@@ -13,6 +13,7 @@ import './softgenerate.scss';
 import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 import Data from '../data.json';
 import axios from "axios";
+import Navigation from "./Navigation";
 
 class SoftGenerateContainer extends Component {
     state = {
@@ -38,6 +39,7 @@ class SoftGenerateContainer extends Component {
        return (
          <div style={{ background: "pink", height: "100%", width: "100%" }}>
            Container
+           {/* <Navigation /> */}
            <Header data={this.state.resumeData.Header} />
            <BannerSlider />
            <Features data={this.state.resumeData.Features} />
