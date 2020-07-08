@@ -41,7 +41,7 @@ class SoftGenerateContainer extends Component {
            Container
            {/* <Navigation /> */}
            <Header data={this.state.resumeData.Header} />
-           <BannerSlider />
+           <BannerSlider data={this.state.resumeData.Header} />
            <Features data={this.state.resumeData.Features} />
            <AboutUs data={this.state.resumeData.About} />
            <OurServices data={this.state.resumeData.Services} />
