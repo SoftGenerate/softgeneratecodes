@@ -37,10 +37,10 @@ class SoftGenerateContainer extends Component {
 
    render(){
        return (
-         <div style={{ background: "pink", height: "100%", width: "100%" }}>
+         <div style={{ height: "100%", width: "100%" }}>
            Container
-           {/* <Navigation /> */}
-           <Header data={this.state.resumeData.Header} />
+           <Navigation />
+           {/* <Header data={this.state.resumeData.Header} /> */}
            <BannerSlider data={this.state.resumeData.Header} />
            <Features data={this.state.resumeData.Features} />
            <AboutUs data={this.state.resumeData.About} />
