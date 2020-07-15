@@ -21,7 +21,10 @@ class SoftGenerateContainer extends Component {
     }
 
     componentDidMount() {
-        this.getResumeData();
+        //this.getResumeData();
+        this.setState({
+          resumeData: Data
+        });
     }
 
     getResumeData() {
@@ -40,8 +43,8 @@ class SoftGenerateContainer extends Component {
          <div style={{ height: "100%", width: "100%" }}>
            Container
            <Navigation />
-           {/* <Header data={this.state.resumeData.Header} /> */}
-           <BannerSlider data={this.state.resumeData.Header} />
+           <Header data={this.state.resumeData.Header} />
+           {/* <BannerSlider data={this.state.resumeData.Header} /> */}
            <Features data={this.state.resumeData.Features} />
            <AboutUs data={this.state.resumeData.About} />
            <OurServices data={this.state.resumeData.Services} />
