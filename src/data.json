@@ -86,13 +86,13 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Nikhil Vyas",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Gaurav Rathore",
+            "job": "Director"
         }, {
             "img": "img/team/03.jpg",
             "name": "Jane Doe",
