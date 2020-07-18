@@ -13,12 +13,7 @@
             "Lorem ipsum dolor",
             "Incididunt ut labore"
         ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
+      
     },
     "Services": [{
             "icon": "fa fa-wordpress",
@@ -27,7 +22,7 @@
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
+            "name": "cdnjfdjg",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
