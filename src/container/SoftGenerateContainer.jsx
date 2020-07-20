@@ -49,7 +49,7 @@ class SoftGenerateContainer extends Component {
            <OurServices data={this.state.resumeData.Services} />
            <Gallery />
            <Testimonial data={this.state.resumeData.Testimonials} />
-           <OurTeam data={this.state.resumeData.Team} />
+           {/* <OurTeam data={this.state.resumeData.Team} /> */}
            <ContactUs data={this.state.resumeData.Contact} />
            <Footer />
          </div>
