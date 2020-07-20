@@ -41,7 +41,6 @@ class SoftGenerateContainer extends Component {
    render(){
        return (
          <div style={{ height: "100%", width: "100%" }}>
-           Container
            <Navigation />
            <Header data={this.state.resumeData.Header} />
            {/* <BannerSlider data={this.state.resumeData.Header} /> */}
@@ -49,7 +48,7 @@ class SoftGenerateContainer extends Component {
            <AboutUs data={this.state.resumeData.About} />
            <OurServices data={this.state.resumeData.Services} />
            <Gallery />
-         
+           <Testimonial data={this.state.resumeData.Testimonials} />
            <OurTeam data={this.state.resumeData.Team} />
            <ContactUs data={this.state.resumeData.Contact} />
            <Footer />
