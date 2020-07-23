@@ -52,9 +52,9 @@ class ContactUs extends Component {
                   <div className="row">
                     <div className="social">
                       <ul>
-                        <li><a href={this.props.data ? this.props.data.facebook : '/'}><i className="fa fa-facebook"></i></a></li>
-                        <li><a href={this.props.data ? this.props.data.twitter : '/'}><i className="fa fa-twitter"></i></a></li>
-                        <li><a href={this.props.data ? this.props.data.youtube : '/'}><i className="fa fa-youtube"></i></a></li>
+                        <li><a href={this.props.data ? this.props.data.facebook : '/'} target="_new"><i className="fa fa-facebook"></i></a></li>
+                        <li><a href={this.props.data ? this.props.data.twitter : '/'} target="_new"><i className="fa fa-twitter"></i></a></li>
+                        <li><a href={this.props.data ? this.props.data.youtube : '/'} target="_new"><i className="fa fa-instagram"></i></a></li>
                       </ul>
                     </div>
                   </div>
@@ -63,8 +63,6 @@ class ContactUs extends Component {
             </div>
             <div id="footer">
               <div className="container text-center">
-                {/* <p>&copy; 2018 Issaaf Kattan React Land Page Template. Design by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p> */}
-                 {/* <p>&copy; SOFT GENERATE. ALL RIGHTS RESERVED 2020</p> */}
                  <div>&copy; {this.props.data ? this.props.data.footer : ''}</div>
               </div>
             </div>
