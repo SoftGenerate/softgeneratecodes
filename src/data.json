@@ -50,41 +50,47 @@
            
             "name": "CRM Development",
             "text": "Softgenerate provides the excellent CRM (Customer Relationship Management) development services at reliable cost."
+        },
+		  {
+           
+            "name": "Software support maintenance services cover:",
+            "text": "Corrective Maintenance(Bug Fixing, Text automation, Testing etc.)We provide 24 hours Customer support"
         }
+		
 		
 
 
     ],
     "Testimonials": [
         {
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "img": "",
+            "text": "\"Thanks to All Softgenerate India Team I just wanted to let you know that you guys do a really excellent job. I’m glad I decided to work with you. It’s really great how easy our websites are to update and manage. I never have any problem at all and smartly managed. I have worked with several companies in Jaipur, but Softgenerate India is quit different and amazing. They are the most competent, dedicated, friendly, professional and Best IT company that I have ever worked with. Please give my\"",
             "name": "John Doe"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "",
+            "text": "\"Clover IT is a thoughtful, enthusiastic and talented team of engineers. These passionate people are having amazing energy and passion for programming. They are having a great team team for writing great codes and provide best business solutions whenever possible. They make use of the best technologies for the Mobile application &amp; Website development. Further, they provide best website design improvements. I would love to work with Clover IT team on more projects in the near future.\"",
+            "name": "Daniel"
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "",
+            "text": "\"I am very happy with the final product Clover delivered. All their efforts and the time that they have put in my project is quite appreciable. They delivered an amazing service, something better than what I had ever expected. Their user-oriented approach and quality services helped me execute my business goals well. I am thankful to the entire Clover family for all their assistance and further, i would love to work on some more projects in the future too.\"",
+            "name": "John"
         },
         {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+           "img": "",
+            "text": "\"\"",
+            "name": ""
         },
         {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "",
+            "text": "\"Clover provided a great work experience for me. Their work policies are client-oriented and I am so impressed with them that I would love to be working with them again in the future.\"",
+            "name": "Bill"
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "",
+            "text": "\"Just a quick note of gratitude for all your assistance. I have been extremely impressed with the level of service that you have provided to us this past year. I will admit that I was somewhat sceptical to work with a company overseas, however it has been my great pleasure to reap the rewards of the outstanding work and relationship that has developed instead.No matter what type of work we have thrown at your programmers and designers you have always been able to exceed our expectations in a very timely manner.I look forward to a long and mutually prosperous relationship with softgenerate. Your service is exceptional. Keep up the Good work.To Your Success\"",
+            "name": "Chris Patterson"
         }
     ],
     "Team": [{
@@ -108,12 +114,12 @@
         }
     ],
     "Contact": {
-        "address": "plot N.818, Lane N.8, Devi Nager,Sodala,Jaipur",
+        "address": "Plot N.818, Lane N.8, Devi Nager,Sodala,Jaipur",
         "phone": "7296908297,8949482523",
         "email": "softgenerate@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "Instagram.com",
+        "instagram": "Instagram.com",
         "footer": "SOFT GENERATE. ALL RIGHTS RESERVED 2020"
     },
     "Features": [{
