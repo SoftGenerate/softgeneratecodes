@@ -3,7 +3,10 @@ import React, { Component } from 'react'
 class OurServices extends Component {
     render() {
         return (
+<<<<<<< HEAD
           // <div style={{ background: 'gray' }}OurServices</div>
+=======
+>>>>>>> 36d7682bc793039b3c7362730719da0e6d8c96b9
           <div id="services" className="text-center">
             <div className="container">
               <div className="section-title">
