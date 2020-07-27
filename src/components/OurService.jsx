@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class OurServices extends Component {
     render() {
         return (
-          // <div style={{ background: 'gray' }}>OurServices</div>
+          // <div style={{ background: 'gray' }}OurServices</div>
           <div id="services" className="text-center">
             <div className="container">
               <div className="section-title">

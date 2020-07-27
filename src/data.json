@@ -117,15 +117,15 @@
         "address": "Plot N.818, Lane N.8, Devi Nager,Sodala,Jaipur",
         "phone": "7296908297,8949482523",
         "email": "softgenerate@gmail.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "instagram": "Instagram.com",
+        "facebook": "https://www.facebook.com/profile.php?id=100053906046732",
+        "twitter": "https://twitter.com/SoftGenerate1",
+        "youtube": "https://www.instagram.com/softgenerate/",
         "footer": "SOFT GENERATE. ALL RIGHTS RESERVED 2020"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Service Pages",
+            "text": "It is important that prospective clients know what you can do for them. Have a page on your website that lists your top IT services, which can link to individual pages for sub-practice areas or further information. Consider linking to additional resources like specific case studies for that service, or testimonials to aid in the hiring process."
         },
         {
             "icon": "fa fa-bullhorn",
