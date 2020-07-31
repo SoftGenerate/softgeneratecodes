@@ -28,7 +28,18 @@ export class Navigation extends Component {
         <div className="container">
           <div className="navbar-header">
             <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span className="sr-only">Toggle navigation</span> <span className="icon-bar"></span> <span className="icon-bar"></span> <span className="icon-bar"></span> </button>
-            <a className="navbar-brand page-scroll" href="#page-top">Soft Generate</a> </div>
+            {/* <a className="navbar-brand page-scroll" href="#page-top">Soft Generate</a>  */}
+
+            <div>
+              <div>
+                <img
+                  src={require("../logo.png")} alt="softGenerate"
+                  //src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5jrx_YpRCzYNpmDaeFa6M43NTgyWFr2qjAg&usqp=CAU" alt=""
+                  style={{ width: 100 }}
+                />
+              </div>
+            </div>
+            </div>
           <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul className="nav navbar-nav navbar-right">
               <li><a href="#features" className="page-scroll">Features</a></li>
