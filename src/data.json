@@ -55,38 +55,43 @@
            
             "name": "Software support maintenance services cover:",
             "text": "Corrective Maintenance(Bug Fixing, Text automation, Testing etc.)We provide 24 hours Customer support"
-        }
+        },
+		{
+		  "name": "Digital Marketing, Seo ,Email Marketing , Social Media Marketing",
+            "text": "Every large and small business requires digital marketing services. We include the whole range of digital marketing like SEO, PPC, Email Marketing, Social Media Marketing, and Local Business listing to increase business revenue."
+		}
     ],
     "Testimonials": [
         {
             "img": "",
-            "text": "\"Thanks to All Softgenerate India Team I just wanted to let you know that you guys do a really excellent job. I’m glad I decided to work with you. It’s really great how easy our websites are to update and manage. I never have any problem at all and smartly managed. I have worked with several companies in Jaipur, but Softgenerate India is quit different and amazing. They are the most competent, dedicated, friendly, professional and Best IT company that I have ever worked with. Please give my\"",
-            "name": "John Doe"
+            "text": "When you step back and look at everything softgenerate provides, it has everything you’d want if you were building out your own personal safety monitoring app. Instead of it being one part of our stack we have to fight with and maintain, softgenerate  takes care of everything for us.",
+            "name": "Dr. Ralph K."
         },
         {
             "img": "",
-            "text": "\"Clover IT is a thoughtful, enthusiastic and talented team of engineers. These passionate people are having amazing energy and passion for programming. They are having a great team team for writing great codes and provide best business solutions whenever possible. They make use of the best technologies for the Mobile application &amp; Website development. Further, they provide best website design improvements. I would love to work with Clover IT team on more projects in the near future.\"",
-            "name": "Daniel"
+            "text": "I had a meeting with a number of developers, but when I met Deep, he asked heaps of critical questions and demonstrated an insightful understanding of my unique needs, which is new. He told me straight what needed to be done and what could be done in the given time and budget constraints. In fact, they have over-delivered, which is so unusual. I highly recommended softgenerate to industry colleagues, who have struggled to find a reliable tech partner.",
+            "name": "_Fi H."
         },
         {
             "img": "",
-            "text": "\"I am very happy with the final product Clover delivered. All their efforts and the time that they have put in my project is quite appreciable. They delivered an amazing service, something better than what I had ever expected. Their user-oriented approach and quality services helped me execute my business goals well. I am thankful to the entire Clover family for all their assistance and further, i would love to work on some more projects in the future too.\"",
-            "name": "John"
+            "text": "Working with your company was a very pleasant experience. He is a not only a highly skilled programmer but a brilliant communicator. There was no problem which he was not able to deal with, and no issue that he could not help me resolve; his experience really did shine throughThe project that he worked on for me was relatively complex, yet he was still able to produce the finished product to a very high standard. It is without question that I would use his services again in the future.Thank you!!",
+            "name": "Alex"
         },
         {
            "img": "",
-            "text": "\"\"",
-            "name": ""
+            "text": "softgenerate have been very good to me since they took over the background work on my website. Initially they looked at my competition, my services and site and recommended new keywords for me.Those little keywords have enabled my to move way up the all important google lists and I am now consistently in the top 5.softgenerate are now working on getting the rest of my site and the background database up to date as it should be (not as I thought it should be).I have had no problems with softgenerate and their multisite operation enables them to work on my site all day and night!",
+            "name": "Dan Bennett."
         },
         {
             "img": "",
-            "text": "\"Clover provided a great work experience for me. Their work policies are client-oriented and I am so impressed with them that I would love to be working with them again in the future.\"",
-            "name": "Bill"
+            "text": "This would be my second project with softgenerate. These are wonderful bunch of professionals. Great to work with softgenerate.",
+			"name": "Anura v."
+			
         },
         {
             "img": "",
-            "text": "\"Just a quick note of gratitude for all your assistance. I have been extremely impressed with the level of service that you have provided to us this past year. I will admit that I was somewhat sceptical to work with a company overseas, however it has been my great pleasure to reap the rewards of the outstanding work and relationship that has developed instead.No matter what type of work we have thrown at your programmers and designers you have always been able to exceed our expectations in a very timely manner.I look forward to a long and mutually prosperous relationship with softgenerate. Your service is exceptional. Keep up the Good work.To Your Success\"",
-            "name": "Chris Patterson"
+            "text": "Great people to work with. They are full of professional etiquette and true ethics. Such an amazing team with clear skills and quality techniques.",
+            "name": "Gopal"
         }
     ],
     "Team": [{

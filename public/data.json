@@ -1,93 +1,108 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Website and Mobile Apps Design & Development",
+        "paragraph": "We Provide IT solutions and business transforming digital solutions to our clients."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Our expertise in technology understanding and software coding for web solution projects along with a team of techno savvy web experts, software professionals give a value added dimension to any project with their ‘think beyond’ work culture. We integrate every special element, experience and expertise to turn out every solution, a signature solution.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Satisfaction Guaranteed.",
+            "Security is Paramount.",
+            "We Help Solve Your Business Problems.",
+			"A Wide Spectrum Of Skills & Experience."
         ],
-      
+        "Why2": [
+            "Security is Paramount",
+            "We Are FUN To Work With",
+            "High Touch Communication",
+            "Fast Response To Requests & Critical Response Time Guaranteed."
+        ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+           
+            "name": "Mobile App Development",
+            "text": "Softgenerate  is a growing custom app development company. We develop mobile apps for Android, Iphone and hybrid platforms."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "cdnjfdjg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+           
+            "name": "Custom Web Development",
+            "text": "Softgenerate is an eminent custom web development company which has a team of vivacious mix of competent, motivated &amp; devoted developers."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            
+            "name": "Web & Mobile Responsive Design (UI & UX)",
+            "text": "User interface is the first thing which attracts visitors &amp; holds them. Softgenerate is known for creative and professional web design services."
+        },
+        
+        {
+           
+            "name": "Dot Net",
+            "text": "Softgenerate provides the excellent dot net (software & sites ) development services at reliable cost."
+        },
+		{
+            
+            "name": "CMS Development",
+            "text": "We provide best custom CMS development on all major content management systems that will help you to stand out from the competitive crowd."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+           
+            "name": "CRM Development",
+            "text": "Softgenerate provides the excellent CRM (Customer Relationship Management) development services at reliable cost."
         },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		  {
+           
+            "name": "Software support maintenance services cover:",
+            "text": "Corrective Maintenance(Bug Fixing, Text automation, Testing etc.)We provide 24 hours Customer support"
         },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+		{
+		  "name": "Digital Marketing, Seo ,Email Marketing , Social Media Marketing",
+            "text": "Every large and small business requires digital marketing services. We include the whole range of digital marketing like SEO, PPC, Email Marketing, Social Media Marketing, and Local Business listing to increase business revenue."
+		}
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+    "Testimonials": [
+        {
+            "img": "",
+            "text": "When you step back and look at everything softgenerate provides, it has everything you’d want if you were building out your own personal safety monitoring app. Instead of it being one part of our stack we have to fight with and maintain, softgenerate  takes care of everything for us.",
+            "name": "Dr. Ralph K."
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "",
+            "text": "I had a meeting with a number of developers, but when I met Deep, he asked heaps of critical questions and demonstrated an insightful understanding of my unique needs, which is new. He told me straight what needed to be done and what could be done in the given time and budget constraints. In fact, they have over-delivered, which is so unusual. I highly recommended softgenerate to industry colleagues, who have struggled to find a reliable tech partner.",
+            "name": "_Fi H."
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "",
+            "text": "Working with your company was a very pleasant experience. He is a not only a highly skilled programmer but a brilliant communicator. There was no problem which he was not able to deal with, and no issue that he could not help me resolve; his experience really did shine throughThe project that he worked on for me was relatively complex, yet he was still able to produce the finished product to a very high standard. It is without question that I would use his services again in the future.Thank you!!",
+            "name": "Alex"
         },
         {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+           "img": "",
+            "text": "softgenerate have been very good to me since they took over the background work on my website. Initially they looked at my competition, my services and site and recommended new keywords for me.Those little keywords have enabled my to move way up the all important google lists and I am now consistently in the top 5.softgenerate are now working on getting the rest of my site and the background database up to date as it should be (not as I thought it should be).I have had no problems with softgenerate and their multisite operation enables them to work on my site all day and night!",
+            "name": "Dan Bennett."
         },
         {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "",
+            "text": "This would be my second project with softgenerate. These are wonderful bunch of professionals. Great to work with softgenerate.",
+			"name": "Anura v."
+			
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "",
+            "text": "Great people to work with. They are full of professional etiquette and true ethics. Such an amazing team with clear skills and quality techniques.",
+            "name": "Gopal"
         }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Nikhil Vyas",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Gaurav Rathore",
+            "job": "Director"
         }, {
             "img": "img/team/03.jpg",
             "name": "Jane Doe",
@@ -100,17 +115,18 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "Plot N.818, Lane N.8, Devi Nager,Sodala,Jaipur",
+        "phone": "7296908297,8949482523",
+        "email": "softgenerate@gmail.com",
+        "facebook": "https://www.facebook.com/profile.php?id=100053906046732",
+        "twitter": "https://twitter.com/SoftGenerate1",
+        "youtube": "https://www.instagram.com/softgenerate/",
+        "footer": "SOFT GENERATE. ALL RIGHTS RESERVED 2020"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Service Pages",
+            "text": "It is important that prospective clients know what you can do for them. Have a page on your website that lists your top IT services, which can link to individual pages for sub-practice areas or further information. Consider linking to additional resources like specific case studies for that service, or testimonials to aid in the hiring process."
         },
         {
             "icon": "fa fa-bullhorn",
