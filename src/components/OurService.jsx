@@ -7,7 +7,6 @@ class OurServices extends Component {
             <div className="container">
               <div className="section-title">
                 <h2>Our Services</h2>
-
               </div>
               <div className="row">
                 {this.props.data
