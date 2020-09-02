@@ -15,19 +15,12 @@ import OurTeam from "../src/components/OurTeam";
 import ContactUs from "../src/components/ContactUs";
 import Footer from "../src/components/Footer";
 
-
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
-
 const routing = (
   <Router>
     <div>
       <Route exact path="/" component={App} />
-      <Route path="/home" component={App} />
+      {/* <Route path="/home" component={App} /> */}
+      <Route path="/home" component={Header} />
       <Route path="/banner" component={BannerSlider} />
       <Route path="/features" component={Features} />
       <Route path="/about" component={AboutUs} />

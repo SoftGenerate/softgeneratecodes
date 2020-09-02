@@ -10,7 +10,6 @@ import OurTeam from '../components/OurTeam';
 import ContactUs from '../components/ContactUs';
 import Footer from '../components/Footer';
 import './softgenerate.scss';
-import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 import Data from '../data.json';
 import axios from "axios";
 import Navigation from "./Navigation";
@@ -21,7 +20,6 @@ class SoftGenerateContainer extends Component {
     }
 
     componentDidMount() {
-        //this.getResumeData();
         this.setState({
           resumeData: Data
         });
