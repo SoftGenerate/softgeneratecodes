@@ -53,18 +53,12 @@ class ContactUs extends Component {
                     <div id="inner">
                       <img
                         src={require("../logo.png")} alt="softGenerate"
-                        //src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5jrx_YpRCzYNpmDaeFa6M43NTgyWFr2qjAg&usqp=CAU" alt=""
                         style={{ height: 100, width: 100, display: 'flex', alignContent: 'center', textAlign: 'center', alignItems: 'center' }}
                       />
                     </div>
 
                   </div>
 
-                  {/* <div>  <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5jrx_YpRCzYNpmDaeFa6M43NTgyWFr2qjAg&usqp=CAU"
-                    alt=""
-                     style={{height:100,width:100,display:'flex',alignContent:'center',textAlign:'center',alignItems:'cneter'}}
-                  /></div> */}
                   <div className="row">
                     <div className="social">
                       <ul>

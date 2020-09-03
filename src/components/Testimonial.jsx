@@ -16,7 +16,7 @@ class Testimonial extends Component {
                         {this.props.data ? this.props.data.map(d =>
                             <div className="col-md-4">
                                 <div className="testimonial">
-                                    <div className="testimonial-image"> <img src={d.img} alt="" /> </div>
+                                    {/* <div className="testimonial-image"> <img src={d.img} alt="" /> </div> */}
                                     <div className="testimonial-content">
                                         <p>"{d.text}"</p>
                                         <div className="testimonial-meta"> - {d.name} </div>
