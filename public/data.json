@@ -37,10 +37,16 @@
         },
         
         {
+            "name": "Digital Marketing, Seo ,Email Marketing , Social Media Marketing",
+            "text": "Every large and small business requires digital marketing services. We include the whole range of digital marketing like SEO, PPC, Email Marketing, Social Media Marketing, and Local Business listing to increase business revenue."
+        },
+        
+        {
            
             "name": "Dot Net",
             "text": "Softgenerate provides the excellent dot net (software & sites ) development services at reliable cost."
         },
+
 		{
             
             "name": "CMS Development",
@@ -55,11 +61,8 @@
            
             "name": "Software support maintenance services cover:",
             "text": "Corrective Maintenance(Bug Fixing, Text automation, Testing etc.)We provide 24 hours Customer support"
-        },
-		{
-		  "name": "Digital Marketing, Seo ,Email Marketing , Social Media Marketing",
-            "text": "Every large and small business requires digital marketing services. We include the whole range of digital marketing like SEO, PPC, Email Marketing, Social Media Marketing, and Local Business listing to increase business revenue."
-		}
+        }
+	
     ],
     "Testimonials": [
         {
@@ -115,8 +118,8 @@
         }
     ],
     "Contact": {
-        "address": "Plot N.818, Lane N.8, Devi Nager,Sodala,Jaipur",
-        "phone": "7296908297 , 8949482523",
+        "address": "Plot N.818, Lane N.8, Devi Nagar, Sodala, Jaipur",
+        "phone": "7296908297, 8949482523",
         "email": "softgenerate@gmail.com",
         "facebook": "https://www.facebook.com/profile.php?id=100053906046732",
         "twitter": "https://twitter.com/SoftGenerate1",
