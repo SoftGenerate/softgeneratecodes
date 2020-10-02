@@ -3,7 +3,6 @@ import React, { Component } from 'react'
 class Gallery extends Component {
     render() {
         return (
-          // <div style={{ background: 'gray' }}>Gallery</div>
           <div id="portfolio" className="text-center">
             <div className="container">
               <div className="section-title">
@@ -24,7 +23,6 @@ class Gallery extends Component {
                           data-lightbox-gallery="gallery1"
                         >
                           <div className="hover-text">
-                            {/* <h4>Lorem Ipsum</h4> */}
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
@@ -68,7 +66,6 @@ class Gallery extends Component {
                           data-lightbox-gallery="gallery1"
                         >
                           <div className="hover-text">
-                            {/* <h4>Lorem Ipsum</h4> */}
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
@@ -90,7 +87,6 @@ class Gallery extends Component {
                           data-lightbox-gallery="gallery1"
                         >
                           <div className="hover-text">
-                            {/* <h4>Lorem Ipsum</h4> */}
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
@@ -156,7 +152,6 @@ class Gallery extends Component {
                           data-lightbox-gallery="gallery1"
                         >
                           <div className="hover-text">
-                            {/* <h4>Dolor Sit</h4> */}
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
