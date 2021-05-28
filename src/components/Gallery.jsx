@@ -6,7 +6,7 @@ class Gallery extends Component {
           <div id="portfolio" className="text-center">
             <div className="container">
               <div className="section-title">
-                <h2>Gallery</h2>
+                <h2>Portfolios</h2>
                 <p>
                 
                 </p>
@@ -18,7 +18,8 @@ class Gallery extends Component {
                       <div className="hover-bg">
                         {" "}
                         <a
-                          href="img/portfolio/01-large.jpg"
+                          //href="img/portfolio/01-large.jpg"
+                          href="img/portfolio/09-large.jpg"
                           title="Project Title"
                           data-lightbox-gallery="gallery1"
                         >
@@ -26,7 +27,8 @@ class Gallery extends Component {
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
-                            src="img/portfolio/01-small.jpg"
+                            //src="img/portfolio/01-small.jpg"
+                             src="img/portfolio/09-small.jpg"
                             className="img-responsive"
                             alt="Project Title"
                           />{" "}
@@ -61,7 +63,8 @@ class Gallery extends Component {
                       <div className="hover-bg">
                         {" "}
                         <a
-                          href="img/portfolio/03-large.jpg"
+                          //href="img/portfolio/03-large.jpg"
+                          href="img/portfolio/08-large.jpg"
                           title="Project Title"
                           data-lightbox-gallery="gallery1"
                         >
@@ -69,7 +72,8 @@ class Gallery extends Component {
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
-                            src="img/portfolio/03-small.jpg"
+                            //src="img/portfolio/03-small.jpg"
+                            src="img/portfolio/08-small.jpg"
                             className="img-responsive"
                             alt="Project Title"
                           />{" "}
@@ -103,7 +107,8 @@ class Gallery extends Component {
                       <div className="hover-bg">
                         {" "}
                         <a
-                          href="img/portfolio/05-large.jpg"
+                         // href="img/portfolio/05-large.jpg"
+                          href="img/portfolio/large2.jpg"
                           title="Project Title"
                           data-lightbox-gallery="gallery1"
                         >
@@ -112,7 +117,8 @@ class Gallery extends Component {
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
-                            src="img/portfolio/05-small.jpg"
+                            //src="img/portfolio/05-small.jpg"
+                            src="img/portfolio/small2.jpg"
                             className="img-responsive"
                             alt="Project Title"
                           />{" "}
@@ -190,7 +196,8 @@ class Gallery extends Component {
                       <div className="hover-bg">
                         {" "}
                         <a
-                          href="img/portfolio/09-large.jpg"
+                          //href="img/portfolio/09-large.jpg"
+                          href="img/portfolio/large1.jpg"
                           title="Project Title"
                           data-lightbox-gallery="gallery1"
                         >
@@ -199,7 +206,8 @@ class Gallery extends Component {
                             <h4>SoftGenerate</h4>
                           </div>
                           <img
-                            src="img/portfolio/09-small.jpg"
+                            //src="img/portfolio/09-small.jpg"
+                            src="img/portfolio/img1.jpg"
                             className="img-responsive"
                             alt="Project Title"
                           />{" "}

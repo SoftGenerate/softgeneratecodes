@@ -52,8 +52,8 @@ class ContactUs extends Component {
                   <div id="outer">
                     <div id="inner">
                       <img
-                        src={require("../logo.png")} alt="softGenerate"
-                        style={{ height: 100, width: 100, display: 'flex', alignContent: 'center', textAlign: 'center', alignItems: 'center' }}
+                        src={require("../logo(gold).png")} alt="softGenerate"
+                        style={{ width: 140, display: 'flex', alignContent: 'center', textAlign: 'center', alignItems: 'center' }}
                       />
                     </div>
 
@@ -64,7 +64,8 @@ class ContactUs extends Component {
                       <ul>
                         <li><a href={this.props.data ? this.props.data.facebook : '/'} target="_new"><i className="fa fa-facebook"></i></a></li>
                         <li><a href={this.props.data ? this.props.data.twitter : '/'} target="_new"><i className="fa fa-twitter"></i></a></li>
-                        <li><a href={this.props.data ? this.props.data.youtube : '/'} target="_new"><i className="fa fa-instagram"></i></a></li>
+                        <li><a href={this.props.data ? this.props.data.instagram : '/'} target="_new"><i className="fa fa-instagram"></i></a></li>
+                        <li><a href={this.props.data ? this.props.data.linkedIn : '/'} target="_new"><i className="fa fa-linkedin"></i></a></li>
                       </ul>
                     </div>
                   </div>

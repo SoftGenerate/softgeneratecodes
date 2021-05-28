@@ -23,17 +23,17 @@
     "Services": [{
            
             "name": "Mobile App Development",
-            "text": "Softgenerate  is a growing custom app development company. We develop mobile apps for Android, Iphone and hybrid platforms."
+            "text": "SoftGenerate  is a growing custom app development company. We develop mobile apps for Android, Iphone and hybrid platforms."
         },
         {
            
             "name": "Custom Web Development",
-            "text": "Softgenerate is an eminent custom web development company which has a team of vivacious mix of competent, motivated &amp; devoted developers."
+            "text": "SoftGenerate is an eminent custom web development company which has a team of vivacious mix of competent, motivated &amp; devoted developers."
         },
         {
             
             "name": "Web & Mobile Responsive Design (UI & UX)",
-            "text": "User interface is the first thing which attracts visitors &amp; holds them. Softgenerate is known for creative and professional web design services."
+            "text": "User interface is the first thing which attracts visitors &amp; holds them. SoftGenerate is known for creative and professional web design services."
         },
         
         {
@@ -44,7 +44,7 @@
         {
            
             "name": "Dot Net",
-            "text": "Softgenerate provides the excellent dot net (software & sites ) development services at reliable cost."
+            "text": "SoftGenerate provides the excellent dot net (software & sites ) development services at reliable cost."
         },
 
 		{
@@ -55,7 +55,7 @@
         {
            
             "name": "CRM Development",
-            "text": "Softgenerate provides the excellent CRM (Customer Relationship Management) development services at reliable cost."
+            "text": "SoftGenerate provides the excellent CRM (Customer Relationship Management) development services at reliable cost."
         },
 		  {
            
@@ -95,6 +95,11 @@
             "img": "",
             "text": "Great people to work with. They are full of professional etiquette and true ethics. Such an amazing team with clear skills and quality techniques.",
             "name": "Gopal"
+        },
+        {
+            "img": "",
+            "text": "I really enjoyed working with SoftGenerate. His communication was excellent, he met all deadlines, and his skills were strong. At one point I asked for an additional milestone and he was very forthcoming... I will work with him on additional jobs in the future.",
+            "name": "Sue"
         }
     ],
     "Team": [{
@@ -118,12 +123,13 @@
         }
     ],
     "Contact": {
-        "address": "Plot N.818, Lane N.8, Devi Nagar, Sodala, Jaipur",
+        "address": "Devi Nagar Rd, Pawan Vihar Colony, Devi Nagar, Sodala, Jaipur, Rajasthan 302019",
         "phone": "7296908297, 8949482523",
         "email": "softgenerate@gmail.com",
         "facebook": "https://www.facebook.com/profile.php?id=100053906046732",
         "twitter": "https://twitter.com/SoftGenerate1",
-        "youtube": "https://www.instagram.com/softgenerate/",
+        "instagram": "https://www.instagram.com/softgenerate/",
+        "linkedIn": "https://www.linkedin.com/in/softgenerate-it-b3264b1b6/",
         "footer": "SOFT GENERATE. ALL RIGHTS RESERVED 2020"
     },
     "Features": [{
